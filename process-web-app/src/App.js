@@ -16,6 +16,12 @@ class App extends Component {
             <PublicRoute
               restricted={true}
               component={SignIn}
+              path={"/"}
+              exact
+            />
+            <PublicRoute
+              restricted={true}
+              component={SignIn}
               path={"/signin"}
               exact
             />
