@@ -1,3 +1,15 @@
+## I used:
+
+##### • MYSQL
+
+##### • Spring boot 2.3.3
+
+##### • JPA
+
+##### • JWT
+
+##### • Architecture MVC
+
 ## Compile & Run
 
 ### `mvn package -DskipTests`
